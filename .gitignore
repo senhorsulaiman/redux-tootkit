@@ -8,14 +8,14 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
-starter
+dist
 final
+starter
 vite-final
 vite-starter
-dist
 dist-ssr
 *.local
-.env
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
