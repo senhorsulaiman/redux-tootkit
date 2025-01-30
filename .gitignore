@@ -13,6 +13,7 @@ final
 starter
 vite-final
 vite-starter
+react-final
 dist-ssr
 *.local
 

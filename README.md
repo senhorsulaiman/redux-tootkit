@@ -727,3 +727,6 @@ const cartSlice = createSlice({
   },
 });
 ```
+
+### Site link
+https://rococo-queijadas-90444d.netlify.app/
